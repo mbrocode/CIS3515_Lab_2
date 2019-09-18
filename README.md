@@ -21,4 +21,4 @@ into.
 What is CIS3515_Lab_2’ goal?
 The goal of this app is to get the students practice using the software and practice applying logic to solve problems.
 
-A screenshot of the app can be found at (/appScreenShot.JPG)
+A screenshot of the app can be found at (CIS3515_Lab_2/appScreenShot.JPG).

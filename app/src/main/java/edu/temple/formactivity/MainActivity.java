@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(MainActivity.this, "Password confirmation failed", Toast.LENGTH_SHORT).show();
                     return;
                 }
-                Toast.makeText(MainActivity.this, "You have successfully registered!", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Welcome, "+textInputName.getEditableText().toString()+" to this app", Toast.LENGTH_SHORT).show();
             }
         });
     }
